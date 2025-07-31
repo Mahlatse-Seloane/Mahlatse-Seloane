@@ -34,8 +34,6 @@ You’ll find `/docs` folders, structured commits, and clear README files in eac
 
 Here’s what’s currently in progress:
 
-- [Suicide Checkers – SDLC Implementation (C++)](#) 
-- [Gomoku – Game Logic with Requirements & Testing](#)
-- [Tank Wars – Revisited with SDLC (C# / Unity)](#)  
+- [Suicide Checkers – SDLC Implementation (C++)] 
 
 More coming soon.
