@@ -29,11 +29,11 @@ By following a **Hybrid SDLC model** (a mix of structured planning and iterative
 You’ll find `/docs` folders, structured commits, and clear README files in each project, showing how I work through each SDLC phase. This approach will shape every repo I upload here going forward.
 
 ---
-## ✅ Completed Projects
-## 🚀 Upcoming Projects
-
+## 🔧 In Progress
 Here’s what’s currently in progress:
+- [Suicide Checkers – SDLC Implementation (C++)](https://github.com/Mahlatse-Seloane/Suicide-Checkers)
+  
+## ✅ Completed Projects
 
-- [Suicide Checkers – SDLC Implementation (C++)] 
-
+## 🚀 Upcoming Projects
 More coming soon.
