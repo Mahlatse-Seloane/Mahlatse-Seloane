@@ -15,8 +15,8 @@ While this GitHub is new, it reflects a turning point in how I approach developm
 ---
 ## 🔧 In Progress
 Here’s what’s currently in progress:
-- [Suicide Checkers – SDLC Implementation (C++)](https://github.com/Mahlatse-Seloane/Suicide-Checkers)
-- [Arena-Six (Revisited) (C#)](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited)
+- [Suicide Checkers (Revisited) (C++)](https://github.com/Mahlatse-Seloane/Suicide-Checkers)
+- [Arena-Six (Revisited) (Unity/C#)](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited)
   
 ## ✅ Completed Projects
 
