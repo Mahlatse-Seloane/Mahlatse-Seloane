@@ -13,11 +13,14 @@ Many of the projects here were originally completed during my time at university
 While this GitHub is new, it reflects a turning point in how I approach development: with greater discipline, consistency, and a long-term goal of becoming a reliable, thoughtful contributor on any software team.
 
 ---
-## 🔧 In Progress
-Here’s what’s currently in progress:
-- [Suicide Checkers (Revisited) (C++)](https://github.com/Mahlatse-Seloane/Suicide-Checkers)
-- [Arena-Six (Revisited) (Unity/C#)](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited)
-  
-## ✅ Completed Projects
+## 📁 Project Categories
 
-## 🚀 Upcoming Projects
+Below is a categorized overview of the work I’m building and revisiting, grouped by language and discipline.
+
+### 💻 C++ Projects
+
+- [Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers) *
+
+### 💻 Unity / C# Projects
+
+- [Arena-Six](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited) *
