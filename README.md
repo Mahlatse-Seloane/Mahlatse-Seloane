@@ -20,6 +20,7 @@ Below is a categorized overview of the work I’m building and revisiting, group
 ### 💻 C++ Projects
 
 - [Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers) *
+- [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello)
 
 ### 💻 Unity / C# Projects
 
