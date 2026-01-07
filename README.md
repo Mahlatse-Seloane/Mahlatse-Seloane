@@ -19,9 +19,14 @@ Below is a categorized overview of the work I’m building and revisiting, group
 
 ### 💻 C++ Projects
 
-- [Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers) *
-- [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello)
+- [Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers): A C++17 implementation of Suicide Checkers (Losing Draughts), focusing on clean game logic, rule enforcement, and professional software engineering practices.
+  
+- [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello): A C++17 console-free Reversi (Othello) simulation between autonomous AI players, designed with a strong focus on clean architecture, modularity, and professional software engineering principles.
 
 ### 💻 Unity / C# Projects
 
-- [Arena-Six](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited) *
+- [Arena-Six](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited)
+
+### 💻 Java Projects
+
+- [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello-Java): A Java console-based implementation of Reversi (Othello), developed as a cross-language translation from C++ with a strong focus on professional software engineering practices, clean architecture, and disciplined version control.
