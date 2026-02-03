@@ -1,32 +1,33 @@
 # Hi, I'm Mahlatse Seloane 👋
 
-I’m a graduate from the University of the Witwatersrand, holding a Bachelor of Engineering Science in Digital Arts degree.
+I’m a graduate from the University of the Witwatersrand, holding a Bachelor of Engineering Science in Digital Arts.
 
-Over the past few years, I’ve been working as a Junior Game Developer, which aligns with my academic background. However, my focus has shifted from simply becoming a better game developer to becoming a stronger software developer overall. That means improving my fundamentals while also learning how real-world projects are planned, executed, and maintained. I’m especially interested in structured software development, system design, and collaborative team workflows.
+Over the past few years, I’ve been exploring game and software development through personal projects and academic work. My focus has shifted from simply building games to deepening my understanding of software fundamentals, system design, and collaborative development workflows. I’m especially interested in structured development, modular design, and learning how real-world projects are planned, executed, and maintained.
 
 I created this GitHub account after losing access to my previous one. All my work going forward will be uploaded and maintained here.
 
-The projects you’ll find here represent my ongoing effort to build with real-world discipline — balancing creativity with structure. My goal is not just to write clean, functional code, but to think critically about design, documentation, and long-term maintainability.
+The projects here reflect my ongoing effort to **learn through building** — balancing creativity with structured experimentation. My goal is not just to write functional code, but to **explore design decisions, document my thought process, and improve clarity and organization** in each project.
 
-Many of the projects here were originally completed during my time at university. I’m now revisiting them with a more professional mindset, focusing on clarity, organization, and intentional decision-making in how each project evolves.
+Many of the projects were originally completed during my time at university. I am revisiting them to **better understand software design and collaborative practices**, and to practice applying structured development principles.
 
-While this GitHub is new, it reflects a turning point in how I approach development: with greater discipline, consistency, and a long-term goal of becoming a reliable, thoughtful contributor on any software team.
+This GitHub reflects a phase of learning and growth: developing a more disciplined, thoughtful approach to software that prepares me to contribute effectively in team-based projects.
 
 ---
+
 ## 📁 Project Categories
 
-Below is a categorized overview of the work I’m building and revisiting, grouped by language and discipline.
+Below is an overview of my work, grouped by language and type of project.
 
 ### 💻 C++ Projects
 
-- [Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers): A C++17 implementation of Suicide Checkers (Losing Draughts), focusing on clean game logic, rule enforcement, and professional software engineering practices.
-  
-- [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello): A C++17 console-free Reversi (Othello) simulation between autonomous AI players, designed with a strong focus on clean architecture, modularity, and professional software engineering principles.
+* [Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers): Built a C++17 implementation of Suicide Checkers (Losing Draughts) to explore clean game logic, modular design, and rule enforcement.
+
+* [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello): Built a C++17 Reversi (Othello) simulation between autonomous AI players to practice modular design, system logic, and experimenting with different AI strategies.
 
 ### 💻 Unity / C# Projects
 
-- [Arena-Six](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited)
+* [Arena-Six](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited): Explored modular Finite State Machine architecture and AI systems in Unity, focusing on learning structured design and maintainable code patterns.
 
 ### 💻 Java Projects
 
-- [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello-Java): A Java console-based implementation of Reversi (Othello), developed as a cross-language translation from C++ with a strong focus on professional software engineering practices, clean architecture, and disciplined version control.
+* [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello-Java): Created a Java console-based implementation of Reversi (Othello), translating the C++ version to practice cross-language design, modularity, and disciplined coding practices.
