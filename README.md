@@ -6,7 +6,7 @@ Over the past few years, I’ve been exploring game and software development thr
 
 I created this GitHub account after losing access to my previous one. All my work going forward will be uploaded and maintained here.
 
-The projects here reflect my ongoing effort to **learn through building** — balancing creativity with structured experimentation. My goal is not just to write functional code, but to **explore design decisions, document my thought process, and improve clarity and organization** in each project.
+The projects here reflect my ongoing effort to **learn through building**, where I  balance creativity with structured experimentation. My goal is not just to write functional code, but to **explore design decisions, document my thought process, and improve clarity and organization** in each project.
 
 Many of the projects were originally completed during my time at university. I am revisiting them to **better understand software design and collaborative practices**, and to practice applying structured development principles.
 
