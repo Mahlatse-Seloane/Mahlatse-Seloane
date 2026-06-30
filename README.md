@@ -31,3 +31,5 @@ Below is an overview of my work, grouped by language and type of project.
 ### 💻 Java Projects
 
 * [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello-Java): Created a Java console-based implementation of Reversi (Othello), translating the C++ version to practice cross-language design, modularity, and disciplined coding practices.
+
+* [spring-boot-architecture-roadmap](https://github.com/Mahlatse-Seloane/spring-boot-architecture-roadmap): A progressive backend architectural roadmap mastering production-grade Spring Boot foundations - covering HTTP concurrency boundaries, layered architecture design, and relational persistence.
