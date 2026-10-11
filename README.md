@@ -18,24 +18,24 @@ This GitHub showcases my development journey through practical projects, from ea
 
 ### ☕ Java & Spring Boot
 
-- **[Spring Boot Architecture Roadmap](https://github.com/Mahlatse-Seloane/spring-boot-architecture-roadmap)** — A project-based roadmap for developing a deeper understanding of Spring Boot and backend architecture. It explores application structure, REST APIs, relational persistence, and the engineering principles connecting these concepts.
+- **[Spring Boot Architecture Roadmap](https://github.com/Mahlatse-Seloane/spring-boot-architecture-roadmap)** - A project-based roadmap for developing a deeper understanding of Spring Boot and backend architecture. It explores application structure, REST APIs, relational persistence, and the engineering principles connecting these concepts.
 
-- **[Spring Boot Portfolio: Learning Through Building and Expanding Applications](https://github.com/Mahlatse-Seloane/Spring-Boot-Portfolio-Learning-Through-Building-and-Expanding-Applications)** — This repository brings together a collection of backend projects built using Java and Spring Boot, starting with existing tutorial implementations and extending them through independent development, experimentation, and testing.
-  - **[Task Tracker API](https://github.com/Mahlatse-Seloane/Spring-Boot-Portfolio-Learning-Through-Building-and-Expanding-Applications/tree/main/TaskTrackerAPI)** — An expanded implementation based on [Devtiro's Task App tutorial](https://github.com/devtiro/devtiro-task-app). Focuses on validation, exception handling, DTOs, transaction management, and automated testing while preserving compatibility with the existing application design.
+- **[Spring Boot Portfolio: Learning Through Building and Expanding Applications](https://github.com/Mahlatse-Seloane/Spring-Boot-Portfolio-Learning-Through-Building-and-Expanding-Applications)** - This repository brings together a collection of backend projects built using Java and Spring Boot, starting with existing tutorial implementations and extending them through independent development, experimentation, and testing.
+  - **[Task Tracker API](https://github.com/Mahlatse-Seloane/Spring-Boot-Portfolio-Learning-Through-Building-and-Expanding-Applications/tree/main/TaskTrackerAPI)** - An expanded implementation based on [Devtiro's Task App tutorial](https://github.com/devtiro/devtiro-task-app). Focuses on validation, exception handling, DTOs, transaction management, and automated testing while preserving compatibility with the existing application design.
 
 ### 💻 C++ Projects
 
-- **[Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers)** — A C++17 implementation of Suicide Checkers (Losing Draughts), exploring game logic, rule enforcement, and modular design.
+- **[Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers)** - A C++17 implementation of Suicide Checkers (Losing Draughts), exploring game logic, rule enforcement, and modular design.
 
-- **[Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello)** — A C++17 implementation featuring autonomous AI players, with an emphasis on game logic, modularity, and experimenting with AI strategies.
+- **[Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello)** - A C++17 implementation featuring autonomous AI players, with an emphasis on game logic, modularity, and experimenting with AI strategies.
 
 ### 🎮 Unity & C#
 
-- **[Arena-Six Revisited](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited)** — A Unity project exploring finite state machines and AI systems, with an emphasis on modular architecture and maintainable code.
+- **[Arena-Six Revisited](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited)** - A Unity project exploring finite state machines and AI systems, with an emphasis on modular architecture and maintainable code.
 
 ### ☕ Java
 
-- **[Reversi (Othello) — Java](https://github.com/Mahlatse-Seloane/Reversi-Othello-Java)** — A console-based Java implementation of Reversi, exploring cross-language implementation, modularity, and consistent design principles.
+- **[Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello-Java)** - A console-based Java implementation of Reversi, exploring cross-language implementation, modularity, and consistent design principles.
 
 ---
 
