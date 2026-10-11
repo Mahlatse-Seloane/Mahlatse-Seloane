@@ -1,35 +1,55 @@
 # Hi, I'm Mahlatse Seloane 👋
 
-I’m a graduate from the University of the Witwatersrand, holding a Bachelor of Engineering Science in Digital Arts.
+I'm a developer focused on **Java, Spring Boot, and backend software engineering**, with an interest in application architecture, maintainable code, and understanding the engineering principles behind the systems I build.
 
-Over the past few years, I’ve been exploring game and software development through personal projects and academic work. My focus has shifted from simply building games to deepening my understanding of software fundamentals, system design, and collaborative development workflows. I’m especially interested in structured development, modular design, and learning how real-world projects are planned, executed, and maintained.
+My programming background spans game development, C++, C#, and Java. Through these projects, I've explored game logic, AI systems, finite state machines, and modular design. I'm now building on that foundation by focusing on backend development and the design of structured, maintainable applications.
 
-I created this GitHub account after losing access to my previous one. All my work going forward will be uploaded and maintained here.
+My current focus is **learning through building**. I'm working through a structured Spring Boot roadmap, breaking backend development into manageable projects to understand how individual technologies work, how application layers interact, and why particular design decisions matter.
 
-The projects here reflect my ongoing effort to **learn through building**, where I  balance creativity with structured experimentation. My goal is not just to write functional code, but to **explore design decisions, document my thought process, and improve clarity and organization** in each project.
+Rather than treating existing implementations as black boxes, I study their structure, identify opportunities to deepen my understanding, and expand them where appropriate. My current work includes REST API design, validation, exception handling, persistence, transaction management, and automated testing.
 
-Many of the projects were originally completed during my time at university. I am revisiting them to **better understand software design and collaborative practices**, and to practice applying structured development principles.
+I value clear documentation, deliberate design decisions, and incremental development. My goal is to build software that is not only functional, but also understandable, testable, and maintainable.
 
-This GitHub reflects a phase of learning and growth: developing a more disciplined, thoughtful approach to software that prepares me to contribute effectively in team-based projects.
+This GitHub showcases my development journey through practical projects, from earlier game development work to my current focus on backend systems and software architecture.
 
 ---
 
-## 📁 Project Categories
+## 📁 Projects
 
-Below is an overview of my work, grouped by language and type of project.
+### ☕ Java & Spring Boot
+
+- **[Spring Boot Architecture Roadmap](https://github.com/Mahlatse-Seloane/spring-boot-architecture-roadmap)** — A project-based roadmap for developing a deeper understanding of Spring Boot and backend architecture. It explores application structure, REST APIs, relational persistence, and the engineering principles connecting these concepts.
+
+- **[Spring Boot Portfolio: Learning Through Building and Expanding Applications](https://github.com/Mahlatse-Seloane/Spring-Boot-Portfolio-Learning-Through-Building-and-Expanding-Applications)** — This repository brings together a collection of backend projects built using Java and Spring Boot, starting with existing tutorial implementations and extending them through independent development, experimentation, and testing.
+  - **[Task Tracker API](https://github.com/Mahlatse-Seloane/Spring-Boot-Portfolio-Learning-Through-Building-and-Expanding-Applications/tree/main/TaskTrackerAPI)** — An expanded implementation based on [Devtiro's Task App tutorial](https://github.com/devtiro/devtiro-task-app). Focuses on validation, exception handling, DTOs, transaction management, and automated testing while preserving compatibility with the existing application design.
 
 ### 💻 C++ Projects
 
-* [Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers): Built a C++17 implementation of Suicide Checkers (Losing Draughts) to explore clean game logic, modular design, and rule enforcement.
+- **[Suicide Checkers](https://github.com/Mahlatse-Seloane/Suicide-Checkers)** — A C++17 implementation of Suicide Checkers (Losing Draughts), exploring game logic, rule enforcement, and modular design.
 
-* [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello): Built a C++17 Reversi (Othello) simulation between autonomous AI players to practice modular design, system logic, and experimenting with different AI strategies.
+- **[Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello)** — A C++17 implementation featuring autonomous AI players, with an emphasis on game logic, modularity, and experimenting with AI strategies.
 
-### 💻 Unity / C# Projects
+### 🎮 Unity & C#
 
-* [Arena-Six](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited): Explored modular Finite State Machine architecture and AI systems in Unity, focusing on learning structured design and maintainable code patterns.
+- **[Arena-Six Revisited](https://github.com/Mahlatse-Seloane/Arena-Six-Revisited)** — A Unity project exploring finite state machines and AI systems, with an emphasis on modular architecture and maintainable code.
 
-### 💻 Java Projects
+### ☕ Java
 
-* [Reversi (Othello)](https://github.com/Mahlatse-Seloane/Reversi-Othello-Java): Created a Java console-based implementation of Reversi (Othello), translating the C++ version to practice cross-language design, modularity, and disciplined coding practices.
+- **[Reversi (Othello) — Java](https://github.com/Mahlatse-Seloane/Reversi-Othello-Java)** — A console-based Java implementation of Reversi, exploring cross-language implementation, modularity, and consistent design principles.
 
-* [spring-boot-architecture-roadmap](https://github.com/Mahlatse-Seloane/spring-boot-architecture-roadmap): A progressive backend architectural roadmap mastering production-grade Spring Boot foundations - covering HTTP concurrency boundaries, layered architecture design, and relational persistence.
+---
+
+## 🎯 Current Focus
+
+- **Backend Development:** Building RESTful applications with Java and Spring Boot.
+- **API Design:** Understanding HTTP methods, resource relationships, validation, and response design.
+- **Application Architecture:** Applying separation of concerns, layered architecture, and DTOs.
+- **Data Persistence:** Working with relational databases, JPA, Hibernate, and transaction management.
+- **Testing:** Developing confidence through unit, controller, and repository tests.
+- **Software Engineering Practices:** Improving documentation, version control, code organization, and maintainability.
+
+I'm using these projects to strengthen my engineering fundamentals, make design decisions more deliberately, and progressively take on more complex backend development challenges.
+
+---
+
+*Building with purpose. Learning through implementation. Improving through iteration.*
